@@ -1,0 +1,15 @@
+C:\TechBiz\back\bin\Debug\net6.0\back.exe
+C:\TechBiz\back\bin\Debug\net6.0\back.deps.json
+C:\TechBiz\back\bin\Debug\net6.0\back.runtimeconfig.json
+C:\TechBiz\back\bin\Debug\net6.0\back.dll
+C:\TechBiz\back\bin\Debug\net6.0\ref\back.dll
+C:\TechBiz\back\bin\Debug\net6.0\back.pdb
+C:\TechBiz\back\obj\Debug\net6.0\back.csproj.AssemblyReference.cache
+C:\TechBiz\back\obj\Debug\net6.0\back.GeneratedMSBuildEditorConfig.editorconfig
+C:\TechBiz\back\obj\Debug\net6.0\back.AssemblyInfoInputs.cache
+C:\TechBiz\back\obj\Debug\net6.0\back.AssemblyInfo.cs
+C:\TechBiz\back\obj\Debug\net6.0\back.csproj.CoreCompileInputs.cache
+C:\TechBiz\back\obj\Debug\net6.0\back.dll
+C:\TechBiz\back\obj\Debug\net6.0\ref\back.dll
+C:\TechBiz\back\obj\Debug\net6.0\back.pdb
+C:\TechBiz\back\obj\Debug\net6.0\back.genruntimeconfig.cache
